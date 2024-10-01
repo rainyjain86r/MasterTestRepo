@@ -4,7 +4,10 @@ Testing a sample file
 My second changes1111111111
 
 last12345
+<<<<<<< HEAD
 
 
 123
+=======
+>>>>>>> 945f71d62ded9034d192eb10913a1708a4be2a1f
 
